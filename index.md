@@ -33,15 +33,10 @@ My group classes have a maximum of 3 students as I believe that individual atten
 
 # Pricing
 
-- Group (Maximum of 3 students)
-  - Fees: $100 per session
-  - Location: 401B Northshore Drive, Singapore 822401
-
-- Individual
-  - Fees: $150 per session
-  - Location: Student's house or 401B Northshore Drive, Singapore 822401
-
-\* Each session is 2 hours.
+|          | Group (Max 3 students)                  | Individual                                                 |
+|:---------|:----------------------------------------|:-----------------------------------------------------------|
+| Fees     | S$100 per session (2 hours)             | S$150 per session (2 hours)                                |
+| Location | 401B Northshore Drive, Singapore 822401 | Student's house or 401B Northshore Drive, Singapore 822401 |
 
 # Schedule
 
