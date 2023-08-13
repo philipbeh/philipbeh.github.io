@@ -1,7 +1,6 @@
 ---
 layout: default
 title: TOYT
-show_headers: true
 ---
 
 # About Me
