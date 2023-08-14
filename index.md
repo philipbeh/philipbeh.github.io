@@ -5,7 +5,7 @@ title: TOYT
 
 # About Me
 
-![Portrait](/assets/images/portrait_small.jpg)
+![Portrait](/assets/images/portrait_small.jpeg)
 
 My name is TOYT and I am a Nanyang Technology University graduate with a Bachelor's Degree in Chemistry. I've been teaching since graduating 5 years ago.
 
