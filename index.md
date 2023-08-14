@@ -55,7 +55,7 @@ Starting from **20 November 2023**, the following time slots are available for g
 | Sat | 10.00 am - 12.00 pm | TBD     | 3          |
 | Sat | 12.30 pm - 02.30 pm | TBD     | 3          |
 
-Please note that due to the limited spots, half a month's fees has to be paid for in order to reserve a spot. This is non refundable.
+Please note that due to the limited spots, half a month's fees has to be paid in advance to reserve a spot. This is non refundable.
 
 Group classes are held at 401B Northshore Drive, Singapore 822401.
 
