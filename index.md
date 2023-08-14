@@ -5,9 +5,9 @@ title: TOYT
 
 # About Me
 
-My name is TOYT and I am a Nanyang Technology University graduate with a Bachelor's Degree in Chemistry. I've been teaching for the last 5 years. 
+My name is TOYT and I am a Nanyang Technology University graduate with a Bachelor's Degree in Chemistry. I've been teaching since graduating 5 years ago.
 
-I provide personalized tuition for 
+Currently, I provide personalized tuition for 
 
 - Secondary School Chemistry
 - Primary School Science
@@ -33,11 +33,11 @@ My group classes have a maximum of 3 students as I believe that individual atten
 # Pricing
 
 - Group (Maximum of 3 students)
-  - Fees: $100 per session (2 hours)
+  - Fees: S$400 per month (4 sessions * 2 hours per session)
   - Location: 401B Northshore Drive, Singapore 822401
 
 - Individual
-  - Fees: $150 per session (2 hours)
+  - Fees: S$600 per month (4 sessions x 2 hours per session)
   - Location: Student's house or 401B Northshore Drive, Singapore 822401
 
 # Schedule
@@ -50,12 +50,12 @@ Unfortunately, I do not have any open time slots currently.
 
 Starting from **20 November 2023**, the following time slots are available for group classes.
 
-| Day      | Time                | Subject | Spots left |
-|:---------|:--------------------|:--------|:-----------|
-| Saturday | 10.00 am - 12.00 pm | TBD     | 3          |
-| Saturday | 12.30 pm - 02.30 pm | TBD     | 3          |
+| Day | Time                | Subject | Spots left |
+|:----|:--------------------|:--------|:-----------|
+| Sat | 10.00 am - 12.00 pm | TBD     | 3          |
+| Sat | 12.30 pm - 02.30 pm | TBD     | 3          |
 
-Please note that due to the limited spots, the first session has to be paid for in order to reserve a spot. This is non refundable.
+Please note that due to the limited spots, half a month's fees has to be paid for in order to reserve a spot. This is non refundable.
 
 Group classes are held at 401B Northshore Drive, Singapore 822401.
 
