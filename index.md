@@ -64,3 +64,5 @@ Subject TBD (To Be Determined) means that there are no students yet for the time
 # Contact Me
 
 To reserve a spot, contact me via [WhatsApp](http://api.whatsapp.com/send?phone=6512345678) or [Telegram](t.me/abc) at +6512345678.
+
+You can also visit my [Facebook](https://facebook.com) and [Instagram](https://instagram.com) pages.
