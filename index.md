@@ -33,11 +33,11 @@ My group classes have a maximum of 3 students as I believe that individual atten
 # Pricing
 
 - Group (Maximum of 3 students)
-  - Fees: S$400 per month (4 sessions * 2 hours per session)
+  - Fees: S$400 per month (4 sessions per month, 2 hours per session)
   - Location: 401B Northshore Drive, Singapore 822401
 
 - Individual
-  - Fees: S$600 per month (4 sessions x 2 hours per session)
+  - Fees: S$600 per month (4 sessions per month, 2 hours per session)
   - Location: Student's house or 401B Northshore Drive, Singapore 822401
 
 # Schedule
