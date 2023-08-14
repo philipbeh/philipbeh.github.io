@@ -61,7 +61,7 @@ Please note that due to the limited spots, half a month's fees has to be paid in
 
 Group classes are held at 401B Northshore Drive, Singapore 822401.
 
-Subject TBD (To Be Determined) means that there are no students yet for the time slot. So, the first student to register will determine the subject taught for that time slot.
+Subject TBD (To Be Determined) means that there are no students yet for the time slot. So, the first student to register will determine the subject for that time slot.
 
 # Contact Me
 
