@@ -1,11 +1,8 @@
 ---
 layout: default
 title: TOYT
+description: More testimonials
 ---
-
-[Home](./)
-
-# Testimonials
 
 > "My son loves Miss TOYT!"
 >
@@ -18,5 +15,3 @@ title: TOYT
 > "Miss TOYT is supercalifragilisticexpialidocious!"
 >
 > Student 4
-
-[Home](./)
