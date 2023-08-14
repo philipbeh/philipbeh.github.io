@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TOYT
-description: More testimonials
+description: All testimonials
 ---
 
 > "My son loves Miss TOYT!"
