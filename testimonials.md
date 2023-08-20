@@ -15,3 +15,15 @@ description: All testimonials
 > "Miss TOYT is supercalifragilisticexpialidocious!"
 >
 > Student 4
+
+> ![Portrait](/assets/images/portrait_small.jpeg)
+
+> ![Portrait](/assets/images/portrait_small.jpeg)
+
+```
+![Portrait](/assets/images/portrait_small.jpeg)
+```
+
+```
+![Portrait](/assets/images/portrait_small.jpeg)
+```
