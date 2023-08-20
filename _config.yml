@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: TOYT
-description: Personalized Tuition for Secondary School Chemistry and Primary School Science in Singapore
+description: Small Group Tuition for Primary School Science and Math / Secondary School Chemistry in Singapore
 show_headers: true
