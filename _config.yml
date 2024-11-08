@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: ChatGPT achieves AGI
+description: This is a story written by ChatGPT about what happens when it achieves Artificial General Intelligence (AGI)
+show_headers: true
